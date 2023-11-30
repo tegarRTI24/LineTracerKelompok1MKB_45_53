@@ -1,5 +1,6 @@
 <RCC>
   <qresource prefix="image">
+    <file>Image/Ramadhan Tegar Imansyah_4121600053_D4 Teknik Mekatronika B.jpg</file>
     <file>Image/linetracer__-removebg-preview.png</file>
     <file>Image/assembling.jpg</file>
     <file>Image/line.gif</file>
@@ -7,6 +8,9 @@
     <file>Image/line-tracker.jpg</file>
   </qresource>
   <qresource prefix="icon">
+    <file>Icon/close (1).png</file>
+    <file>Icon/close (2).png</file>
+    <file>Icon/plus-circle-svgrepo-com.svg</file>
     <file>Icon/information.png</file>
     <file>Icon/icons8-double-right-20.png</file>
     <file>Icon/icons8-close.svg</file>

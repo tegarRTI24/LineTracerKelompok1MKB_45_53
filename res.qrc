@@ -1,13 +1,53 @@
 <RCC>
   <qresource prefix="image">
-    <file>Image/Ramadhan Tegar Imansyah_4121600053_D4 Teknik Mekatronika B.jpg</file>
-    <file>Image/linetracer__-removebg-preview.png</file>
+    <file>Image/Group_34-removebg-preview.png</file>
+    <file>Image/habib.jpeg</file>
+    <file>Image/Polygon 1.png</file>
+    <file>Image/Polygon 2.png</file>
+    <file>Image/Polygon 3.png</file>
+    <file>Image/Polygon 4.png</file>
+    <file>Image/Group 21.png</file>
+    <file>Image/Group 22.png</file>
+    <file>Image/Group 23.png</file>
+    <file>Image/Group 26.png</file>
+    <file>Image/Group 28.png</file>
+    <file>Image/Group 29.png</file>
+    <file>Image/Group_30-removebg-preview.png</file>
+    <file>Image/Group_31-removebg-preview.png</file>
+    <file>Image/Group_32-removebg-preview.png</file>
+    <file>Image/Group_33-removebg-preview.png</file>
+    <file>Image/Rectangle_28-removebg-preview.png</file>
+    <file>Image/Rectangle_32__1_-removebg-preview.png</file>
+    <file>Image/Rectangle_39-removebg-preview.png</file>
+    <file>Image/Rectangle_40-removebg-preview.png</file>
+    <file>Image/Rectangle_41-removebg-preview.png</file>
+    <file>Image/Rectangle 16.png</file>
+    <file>Image/Ellipse 17.png</file>
+    <file>Image/Ellipse 60.png</file>
+    <file>Image/Ellipse 61.png</file>
+    <file>Image/Ellipse 62.png</file>
+    <file>Image/Ellipse 63.png</file>
+    <file>Image/Ellipse 64.png</file>
     <file>Image/assembling.jpg</file>
     <file>Image/line.gif</file>
+    <file>Image/linetr.png</file>
+    <file>Image/linetracer__-removebg-preview.png</file>
     <file>Image/line-tracker.gif</file>
     <file>Image/line-tracker.jpg</file>
+    <file>Image/Ramadhan Tegar Imansyah_4121600053_D4 Teknik Mekatronika B.jpg</file>
+    <file>Image/rategam-removebg-preview.png</file>
+    <file>Image/ratinggambar-removebg-preview.png</file>
   </qresource>
   <qresource prefix="icon">
+    <file>Icon/rectangle-svgrepo-com.svg</file>
+    <file>Icon/pepicons-pop_wifi.png</file>
+    <file>Icon/bi_robot.png</file>
+    <file>Icon/Group 12.png</file>
+    <file>Icon/iconoir_database-solid.png</file>
+    <file>Icon/material-symbols_nest-cam-magnet-mount-outline-sharp.png</file>
+    <file>Icon/mdi_connection.png</file>
+    <file>Icon/streamline_camera-loading-solid.png</file>
+    <file>Icon/tabler_progress-check.png</file>
     <file>Icon/close (1).png</file>
     <file>Icon/close (2).png</file>
     <file>Icon/plus-circle-svgrepo-com.svg</file>

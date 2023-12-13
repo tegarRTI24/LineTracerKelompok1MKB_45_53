@@ -1,5 +1,4 @@
 #include <NewPing.h>
-#include <SoftwareSerial.h>
 #define TRIGGER_PIN 5
 #define ECHO_PIN 4
 #define TRIGGER_PIN2 7
@@ -7,8 +6,6 @@
 #define TRIGGER_PIN3 3
 #define ECHO_PIN3 2
 #define MAX_DISTANCE 200
-
-SoftwareSerial espserial(11,10);//rx,tx
 
 NewPing sonar1(TRIGGER_PIN, ECHO_PIN, MAX_DISTANCE);
 NewPing sonar2(TRIGGER_PIN2, ECHO_PIN2, MAX_DISTANCE);
@@ -44,8 +41,7 @@ void gyro_signals(void){
 }
 
 void setup() {
-  Serial.begin(9600); 
-  espserial.begin(9600);
+  Serial.begin(9600);
   Wire.setClock(400000);
   Wire.begin();
   delay(250);

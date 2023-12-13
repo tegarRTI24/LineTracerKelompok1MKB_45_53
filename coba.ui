@@ -232,7 +232,7 @@ QToolBox::tab:hover{
 }</string>
                 </property>
                 <property name="currentIndex">
-                 <number>0</number>
+                 <number>1</number>
                 </property>
                 <widget class="QWidget" name="connect">
                  <property name="geometry">
@@ -987,7 +987,7 @@ QLineEdit#searchbar{
            <item>
             <widget class="QStackedWidget" name="stackedWidget">
              <property name="currentIndex">
-              <number>14</number>
+              <number>11</number>
              </property>
              <widget class="QWidget" name="Home">
               <layout class="QHBoxLayout" name="horizontalLayout_11">
@@ -7973,6 +7973,7 @@ QPushButton#about_us:hover,#help:hover,#rating:hover{
  </widget>
  <resources>
   <include location="res.qrc"/>
+  <include location="C:/Users/M S I/.designer/backup/res.qrc"/>
  </resources>
  <connections>
   <connection>
